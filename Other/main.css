@@ -125,3 +125,9 @@ body{
 .wrap6{
   flex-direction: column;
 }
+
+@media (min-width: 1000px){
+  .wrapper{
+    width: 50px;
+  }
+}
